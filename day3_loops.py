@@ -22,8 +22,6 @@ for i in range(1, 11):
 # PROGRAM 5 : COUNT DIGITS IN A NUMBER 
 num = input("Enter a number: ")
 count = 0
-
 for i in num:
     count += 1
-
 print("Number of digits:", count)
