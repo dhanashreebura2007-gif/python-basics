@@ -24,6 +24,12 @@ I am building strong fundamentals for AI/ML , internships, and placements.
   - Largest of two numbers
   - Pass or Fail
 
+3. Day 3: Loops
+- Learned `for` loop
+- Used `range()` function
+- Solved number-based programs
+
+
  🚀 Goal
 To become internship-ready by building consistent coding habits and projects.
 
