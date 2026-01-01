@@ -29,6 +29,15 @@ I am building strong fundamentals for AI/ML , internships, and placements.
 - Used `range()` function
 - Solved number-based programs
 
+4. Day 4: While Loop & Control Statements
+- Learned `while` loop
+- Used `break` and `continue`
+- Created logic programs:
+  - Print numbers
+  - Even numbers
+  - Password check
+  - Skip specific number
+
 
  🚀 Goal
 To become internship-ready by building consistent coding habits and projects.
