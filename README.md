@@ -8,6 +8,12 @@
 This repository contains my "daily Python practice programs".
 I am building strong fundamentals for AI/ML , internships, and placements.
 
+ 📜 Certifications
+
+- AI Tools Workshop** – Completed  
+  🔗 Certificate: https://certx.in/certificate/0270772f-3809-4400-b29b-1e1c61cd0997910022
+
+
 ## 📘 Learning Progress
 
 1. Day 1: Python Basics
